@@ -1,2 +1,1 @@
-# Hope-Health
-Hope-Health computer science project
+# Hope-Health prototype
